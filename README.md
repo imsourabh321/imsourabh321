@@ -1,4 +1,4 @@
-<a href="https://ibb.co/Z6w87JB" style="text-align: center;"><img src="https://i.ibb.co/tMNsFhq/IMG-20191019-WA0018.jpg" alt="Sourabh pic" width="350" height="300" align="center"></a>
+<a href="https://ibb.co/Z6w87JB" style="text-align:center"><img src="https://i.ibb.co/tMNsFhq/IMG-20191019-WA0018.jpg" alt="Sourabh pic" width="350" height="300" align="center"></a>
 
 <h2> Hi! I'm Sourabh.</h2>
 
