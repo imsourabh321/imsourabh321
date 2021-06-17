@@ -1,4 +1,5 @@
-<a href="https://ibb.co/Z6w87JB" style="text-align:center"><img src="https://i.ibb.co/tMNsFhq/IMG-20191019-WA0018.jpg" alt="Sourabh pic" width="350" height="300" align="center"></a>
+<div style="text-align:center"><a href="https://ibb.co/Z6w87JB"><img src="https://i.ibb.co/tMNsFhq/IMG-20191019-WA0018.jpg" alt="Sourabh pic" width="400" height="300" align="center"></a>
+</div>
 
 <h2> Hi! I'm Sourabh.</h2>
 
@@ -50,7 +51,7 @@
 <p align="center">
 <a href="https://imsourabh.netlify.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.imsourabh.netlify.com/-black?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/sourabh-kumar-singh-856692193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sourabh%20Kumar%20Singh-black?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/i_m_sourya321/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i-m-sourya321-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/i_m_sourya321/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i_m_sourya321-black?style=flat-square&logo=instagram"></a>
 <a href="mailto:mynameissourabh2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mynameissourabh2000@gmail.com-black?style=flat-square&logo=gmail"></a>
 </p>
 
