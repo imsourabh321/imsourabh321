@@ -48,10 +48,10 @@
 <h3> 🤝🏻 &nbsp;Reach out to me on </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mynameissourabh2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mynameissourabh2000@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://imsourabh.netlify.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.imsourabh.netlify.com/-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/sourabh-kumar-singh-856692193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sourabh%20Kumar%20Singh-black?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/i_m_sourya321/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i_m_sourya321-black?style=flat-square&logo=instagram"></a>
+<a href="mailto:mynameissourabh2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mynameissourabh2000@gmail.com-black?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [imsourabh321](https://github.com/imsourabh321)
