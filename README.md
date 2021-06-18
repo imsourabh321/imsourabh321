@@ -1,7 +1,7 @@
 <div align="center"><a href="https://ibb.co/Z6w87JB"><img src="https://i.ibb.co/tMNsFhq/IMG-20191019-WA0018.jpg" alt="Sourabh pic" width="400" height="300" align="center"></a>
 </div>
 
-<h2> Hi! I'm Sourabh.</h2>
+<h1 align="center"> Hi! I'm Sourabh.</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -11,7 +11,7 @@
 - 🌱 &nbsp; Learning more about Web Development, Android and also interested in Competitive Programming.
 - ✍️ &nbsp; have a Hobby of watching Anime and also to read some Novels.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technical Skills/Stacks</h3>
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-151515?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -40,6 +40,8 @@
   ![InDesign](https://img.shields.io/badge/-Figma-151515?style=flat&logo=figma)
 
 <br/>
+
+<h3> 📊 &nbsp;Github Stats </h3>
 
 <a href="https://github.com/imsourabh321">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imsourabh321&theme=buefy&show_icons=true" />
