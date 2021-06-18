@@ -1,4 +1,4 @@
-<div style="text-align:center"><a href="https://ibb.co/Z6w87JB"><img src="https://i.ibb.co/tMNsFhq/IMG-20191019-WA0018.jpg" alt="Sourabh pic" width="400" height="300" align="center"></a>
+<div align="center"><a href="https://ibb.co/Z6w87JB"><img src="https://i.ibb.co/tMNsFhq/IMG-20191019-WA0018.jpg" alt="Sourabh pic" width="400" height="300" align="center"></a>
 </div>
 
 <h2> Hi! I'm Sourabh.</h2>
@@ -14,30 +14,30 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C](https://img.shields.io/badge/-C-151515?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-151515?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-151515?style=flat&logo=python)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![HTML5](https://img.shields.io/badge/-HTML5-151515?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS-151515?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-151515?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-151515?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-151515?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-151515?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-151515?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-151515?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+  ![Git](https://img.shields.io/badge/-Git-151515?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-151515?style=flat&logo=github)
+  ![Netlify](https://img.shields.io/badge/-Netlify-151515?style=flat&logo=netlify)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-151515?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-151515?style=flat&logo=android-studio&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-151515?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-151515?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-Figma-151515?style=flat&logo=figma)
 
 <br/>
 
